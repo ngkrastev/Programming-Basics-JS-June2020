@@ -5,10 +5,7 @@ function party(rent) {
     let animator = 1 / 3 * rent;
     let result = cake + drinks + animator + rent;
 
-    // rent += cake + drinks + animator;
-
     console.log(result);
-    
 }
 
 party("2250");
